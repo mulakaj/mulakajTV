@@ -677,9 +677,5 @@ https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Bloomberg Quicktake 
 #EXTVLCOPT:network-caching=1000
 https://bloomberg-quicktake-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Top Channel
-https://5.254.81.2:7090/8708/mpegts
-#EXTINF:-1,Rtv 21
-https://5.254.81.2:7090/8748/mpegts
 
 
