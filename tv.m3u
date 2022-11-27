@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
 #EXTINF:0 tvg-id="RTSH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/100px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://185.89.156.111:8000/play/a01z
 #EXTINF:0,RTSH 2
