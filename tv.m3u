@@ -12,7 +12,7 @@ http://185.234.217.29:8004/play/topchannel/index.m3u8
 #EXTINF:0 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",Klan Plus
 http://130.0.24.22:94/KlanPlusHD/index.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",Vizion Plus
-http://185.234.217.24:8020/play/a075/index.m3u8
+http://185.234.217.29:8004/play/vizionplus/index.m3u8
 #EXTINF:0 tvg-id="RTV21.al",RTV 21
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/1343
 #EXTINF:0,KTV
@@ -40,11 +40,11 @@ http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/1072
 #EXTINF:0 tvg-id="A2 CNN" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png",A2 CNN
 http://185.234.217.29:8004/play/a2cnn/index.m3u8
 #EXTINF:0,RTSH Sport
-http://95.107.132.105/out/u/638_1.m3u8
+http://185.89.156.111:8000/play/a022
 #EXTINF:0,RTSH Shkollë
 http://185.89.156.111:8000/play/a02a
 #EXTINF:0,RTSH Agro
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/193717
+http://185.89.156.111:8000/play/a02b
 #EXTINF:47,RTSH Fëmijë
 http://79.106.48.2:8800/play/a004/index.m3u8
 #EXTINF:0,RTSH 24
@@ -120,7 +120,7 @@ http://185.89.156.111:8000/play/a013
 #EXTINF:0,SCAN
 http://185.89.156.111:8000/play/a01c
 #EXTINF:0,Klan Music
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/166503
+http://88.214.16.14:9000/klanmusic
 #EXTINF:0,First Channel
 http://146.59.19.1/5033/mpegts
 #EXTINF:0,Neser TV
@@ -370,14 +370,3 @@ http://abmclass.com:8080/live/kozmoz/ykTxQkZIK4/71389.ts
 http://abmclass.com:8080/live/kozmoz/ykTxQkZIK4/71390.ts
 #EXTINF:-1,beiN SP0RT 3 HD
 http://abmclass.com:8080/live/kozmoz/ykTxQkZIK4/71391.ts
-#EXTINF:0,Better Call Saul 2
-https://s-delivery41.mxdcontent.net/v/7e790c9af623c9e8e53eaa456d70fc0a.mp4?s=nqcWsQz55bgbL4o8wmzOEA&e=1669487557&_t=1669470092
-
-
-
-
-
-
-
-
-
