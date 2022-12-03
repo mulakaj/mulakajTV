@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="http://albepg.com/epg/guide.xml"
 #EXTINF:0 tvg-id="RTSH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/100px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
-http://185.89.156.111:8000/play/a01z
+http://79.106.48.2:8800/play/a01v/index.m3u8
 #EXTINF:0,RTSH 2
-http://185.89.156.111:8000/play/a020
+http://185.234.217.29:8004/play/rtsh2hd/index.m3u8
 #EXTINF:0 tvg-id="RTK 1" tvg-shift=1 tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",RTK 1
 http://146.59.19.1/5002/mpegts
 #EXTINF:0 tvg-id="KlanTV.al" tvg-name="KlanTV.al" tvg-chno="3" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png",Klan TV
-http://130.0.24.22:94/KlanHD/index.m3u8?
+http://185.234.217.29:8004/play/klantvhd/index.m3u8
 #EXTINF:0 tvg-id="Top Channel HD" tvg-name="Top Channel HD" tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
 http://185.234.217.29:8004/play/topchannel/index.m3u8
 #EXTINF:0 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",Klan Plus
-http://130.0.24.22:94/KlanPlusHD/index.m3u8
+http://185.234.217.29:8004/play/klanplus/index.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",Vizion Plus
 http://185.234.217.29:8004/play/vizionplus/index.m3u8
 #EXTINF:0 tvg-id="RTV21.al",RTV 21
@@ -24,7 +24,7 @@ https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:0 tvg-id="Ora News",RTV Ora
 http://95.107.132.105/out/u/348_1.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/News%2024.png",News 24
-http://185.89.156.111:8000/play/a006
+http://185.234.217.29:8004/play/news24/index.m3u8
 #EXTINF:0,Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0 tvg-id="EuronewsALB.al" tvg-logo="http://www.albepg.com/tvlogi/EuroNews%20Albania.png",Euronews
@@ -34,21 +34,21 @@ http://95.107.132.105/out/u/983_2.m3u8
 #EXTINF:0,Syri TV
 https://stream.syritv.al/out/u/syritv.m3u8
 #EXTINF:0 tvg-id="ATV" tvg-logo="http://www.albepg.com/tvlogi/ATV.png",A TV
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/54489
+http://185.234.217.29:8004/play/atv/index.m3u8
 #EXTINF:0,RTV Dukagjini
-http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/1072
+http://37.49.230.48:8080/GenIptvLast/FaP6YswK77NaOPOF/6708
 #EXTINF:0 tvg-id="A2 CNN" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png",A2 CNN
 http://185.234.217.29:8004/play/a2cnn/index.m3u8
 #EXTINF:0,RTSH Sport
-http://185.89.156.111:8000/play/a022
+http://95.107.132.106/out/u/362_1.m3u8
 #EXTINF:0,RTSH Shkollë
-http://185.89.156.111:8000/play/a02a
+http://79.106.48.2:8800/play/a01s/index.m3u8
 #EXTINF:0,RTSH Agro
-http://185.89.156.111:8000/play/a02b
+http://79.106.48.2:8800/play/a007/index.m3u8
 #EXTINF:47,RTSH Fëmijë
 http://79.106.48.2:8800/play/a004/index.m3u8
 #EXTINF:0,RTSH 24
-http://185.56.251.38:4000/play/a01j
+http://79.106.48.2:8800/play/a01x/index.m3u8
 #EXTINF:46,RTSH Film
 http://109.104.129.195:8001/play/s16
 #EXTINF:0,RTSH Shqip
@@ -64,15 +64,15 @@ http://46.183.120.170/hls/radiotirana1/index.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-tirana-2-al.png",Radio Tirana 2
 http://corehls01al.ekranet.com/hls/radiotirana2/index.m3u8
 #EXTINF:0,Radio Kosova
-http://46.19.225.239:1935/radiostream/rk1.stream/index.m3u8
-#EXTINF:49,Radio Klan
-http://109.104.129.195:8004/play/s71
+http://82.114.72.2:8088/;stream/1
+#EXTINF:0,Radio Kosova 2
+http://82.114.72.2:8098/;stream/1
 #EXTINF:0,Top Albania Radio 🇦🇱
 https://live.topgold.al/tar
+#EXTINF:49,Radio Klan
+http://109.104.129.195:8004/play/s71
 #EXTINF:0,Club FM
 https://cp1.sednastream.com/proxy/clubfm?mp=/stream
-#EXTINF:0,Radio Kosova 2
-http://46.19.225.239:1935/radiostream/rk2.stream/index.m3u8
 #EXTINF:0,Radio 21
 http://84.22.44.210:8066/radio21.mp3?_=1
 #EXTINF:0,Radio Dukagjini
@@ -93,280 +93,6 @@ http://79.106.48.2:8000/radiotirana3
 http://79.106.48.2:8000/radiotiranajazz
 #EXTINF:0,Radio Tirana Fëmijë
 http://79.106.48.2:8000/radiotiranafemije
-#EXTINF:0,Jon Radio
-http://radiostream.neotel.mk:8000/jonradio
-#EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/RTK%203.png",RTK 3
-http://146.59.19.1/5009/mpegts
-#EXTINF:0,Arta News
-http://185.234.217.24:8020/play/a004/index.m3u8
-#EXTINF:0 tvg-logo="http://albepg.com/tvlogi/T7.png",T 7
-http://146.59.19.1:80/5064/index.m3u8
-#EXTINF:0,Klan News
-http://restream.skyhd-iptv.com:25461/8AWxutmEyj/dAKnp5memU/95
-#EXTINF:0,Ora News
-http://146.59.19.1:80/5006/index.m3u8
-#EXTINF:0,Kanal 10ᴴᴰ
-http://146.59.19.1/5005/index.m3u8
-#EXTINF:0,Top News
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3739
-#EXTINF:0,7 News
-http://95.107.132.105/out/u/581_1.m3u8
-#EXTINF:0,TëVë1
-http://95.107.132.105/out/u/694_1.m3u8
-#EXTINF:0,RTK 4
-http://162.55.88.21/rtk4stream/rtk4.stream/chunklist_w520230568.m3u8
-#EXTINF:0,MCN TV
-http://185.89.156.111:8000/play/a013
-#EXTINF:0,SCAN
-http://185.89.156.111:8000/play/a01c
-#EXTINF:0,Klan Music
-http://88.214.16.14:9000/klanmusic
-#EXTINF:0,First Channel
-http://146.59.19.1/5033/mpegts
-#EXTINF:0,Neser TV
-http://95.107.132.106/out/u/834_1.m3u8
-#EXTINF:0,Alsat
-http://185.234.217.24:8020/play/a003/index.m3u8
-#EXTINF:0,RTM2
-http://146.59.19.1/5003/mpegts
-#EXTINF:0,TV Shenja
-http://146.59.19.1/5034/index.m3u8
-#EXTINF:-1,RTV 21 Macedonia
-http://95.107.132.105/out/u/159_1.m3u8
-#EXTINF:0,Klan Macedonia
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/296555
-#EXTINF:0,Filmbox Premium
-http://5.206.237.251:1288/FilmBoxPremium
-#EXTINF:0,Filmbox Extra
-http://5.206.237.251:1288/FilmBoxExtra
-#EXTINF:0,FilmBox Stars
-http://5.206.237.251:1288/FilmBoxPlus
-#EXTINF:0,Filmbox Arthouse
-http://5.206.237.251:1288/FilmBoxArthouse
-#EXTINF:0,Docu Box
-http://5.206.237.251:1288/DocuBox
-#EXTINF:0,FightBox
-http://195.189.62.147:8000/play/a032
-#EXTINF:0,Fast and Fun Box
-http://udashboard.vip:8080/YmQNEne6X3/L7ExWZM8vJ/94975.ts
-#EXTINF:0,Gametoon
-http://5.206.237.251:1288/Gametoon
-#EXTINF:0,FashionBox
-http://5.206.237.251:1288/FashionBox
-#EXTINF:0,360 Tune Box
-http://91.237.170.202:10000/play/7223
-#EXTINF:0,Gold HD
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/283212
-#EXTINF:0,Max HD
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1331
-#EXTINF:0,Film Thriller
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1328
-#EXTINF:0,Tring Fantasy
-http://130.0.24.22:94/TringFantasy/index.m3u8
-#EXTINF:0,Tring Life
-http://130.0.24.22:94/TringLife/index.m3u8
-#EXTINF:0,Film Dramë
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1332
-#EXTINF:0,Film Komedi
-http://185.89.156.111:8000/play/a012
-#EXTINF:0,Tring Comedy
-http://130.0.24.22:94/TringComedy/index.m3u8
-#EXTINF:0,Hits
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1330
-#EXTINF:0,Super
-http://130.0.24.22:94/TringSuper/index.m3u8
-#EXTINF:0,Tring Action
-http://130.0.24.22:94/TringAction/index.m3u8
-#EXTINF:0,Euro Channel
-http://95.107.132.106/out/u/356_1.m3u8
-#EXTINF:0,Aksion
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/2558
-#EXTINF:0,3 Plus
-http://185.89.156.111:8000/play/a00n
-#EXTINF:0,Euro Film
-http://sharkytv.com:2082/worldiptv/vc3UA2cCSW/209913
-#EXTINF:0,Cinestar TV Premiere 2ᴴᴰ
-http://46.19.226.152:4000/play/a091
-#EXTINF:0,Cinestar TV Fantasy
-http://82.114.87.150:8881/play/a0bw
-#EXTINF:0,Cinestar TV Action
-http://82.114.87.150:8881/play/a0bz
-#EXTINF:0,Cinestar TV Comedy
-http://82.114.87.150:8881/play/a0bx
-#EXTINF:0,T HD
-http://185.89.156.111:8000/play/a00r
-#EXTINF:0,Tring Family
-http://185.89.156.111:8000/play/a01o
-#EXTINF:0,Tring Classic
-http://89.39.106.21:8080/TringClassicHDgdgeg/index.m3u8
-#EXTINF:0,Tring Collection
-http://95.107.132.105/out/u/907_1.m3u8
-#EXTINF:0,Familly
-http://185.89.156.111:8000/play/a01d
-#EXTINF:0 tvg-id="Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png",Series
-http://146.59.19.1:80/5012/index.m3u8
-#EXTINF:0 tvg-id="KanalD Drama",Kanal D Drama
-http://146.59.19.1:80/5062/index.m3u8
-#EXTINF:0,Dizi
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/52228
-#EXTINF:0,Fox
-http://185.226.88.6:11026/live/OUT2QyrOQS8xw/UkPn4unfnR/213.ts
-#EXTINF:0,Fox Life
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/5132
-#EXTINF:0,Stinët
-http://185.89.156.111:8000/play/a01b
-#EXTINF:0,OVERSPORT 2
-http://185.89.156.111:8000/play/a02k
-#EXTINF:0,Oversport 1
-http://185.89.156.111:8000/play/a02j
-#EXTINF:0,Duck TV
-https://mmm-ducktv-6-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Duck TV
-https://ef3d941a9095450e888b479dc77bc037.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_DuckTV/playlist.m3u8
-#EXTINF:0,Baby TV
-http://85.187.25.21:8888/udp/238.194.7.1:5501
-#EXTINF:0,Duck TV
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_DUCKTV_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true 
-#EXTINF:0,Bubble
-http://95.107.132.106/out/u/1118_1.m3u8
-#EXTINF:0,Tring Sport 1
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/795
-#EXTINF:0,Tring Sport 2
-http://146.59.19.1:80/5030/index.m3u8
-#EXTINF:0,SuperSport News
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1313
-#EXTINF:0,SuperSport 2
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1312
-#EXTINF:0,SuperSport 3
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1319
-#EXTINF:0,Tring Sport News
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1861
-#EXTINF:0,Info24 TV
-https://vs1.sednastream.com:1936/info24/info24/playlist.m3u8
-#EXTINF:0,Living HD
-http://146.59.19.1/5011/mpegts
-#EXTINF:0 tvg-id="National Geographic",National Geographic
-http://82.114.81.11:4002/play/a03y/index.m3u8
-#EXTINF:0,Travel Channel
-http://95.107.132.105/out/u/397_3.m3u8
-#EXTINF:0,24 Kitchen
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1343
-#EXTINF:0,Discovery Channel
-http://46.19.226.152:4000/play/a07r
-#EXTINF:0,TLC
-http://46.19.226.152:4000/play/a085
-#EXTINF:0,Investigation Discovery
-http://82.114.87.150:8881/play/a03z
-#EXTINF:0,Animal Planet
-http://46.19.226.152:4000/play/a05u
-#EXTINF:0,Discovery Science
-http://91.132.172.169:8000/play/a02y/index.m3u8
-#EXTINF:0,Cinestar TV 1
-http://46.19.226.152:4000/play/a092
-#EXTINF:0,Cinestar TV 2
-http://46.19.226.152:4000/play/a08y
-#EXTINF:0,ID Extra
-http://46.19.226.152:4000/play/a084
-#EXTINF:0,Fox Crime
-http://185.186.81.78:8002/play/a04e
-#EXTINF:0,Tring Novelas
-http://95.107.132.105/out/u/910_1.m3u8
-#EXTINF:0,Muse
-http://185.234.217.24:8020/play/a08o/index.m3u8
-#EXTINF:0,Explorer Shkencë 
-http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/315
-#EXTINF:0,Explorer Natyra
-http://185.89.156.111:8000/play/a010
-#EXTINF:0,Explorer Histori 
-http://185.89.156.111:8000/play/a011
-#EXTINF:0,Tring Planet 
-http://146.59.19.1:80/5023/index.m3u8
-#EXTINF:0,Tring World 
-http://146.59.19.1:80/5022/index.m3u8
-#EXTINF:0,Tring History 
-http://185.234.217.24:8020/play/a057/index.m3u8
-#EXTINF:0,Bang Bang
-http://185.89.156.111:8000/play/a00g
-#EXTINF:0,Çufo
-http://185.234.217.24:8020/play/a007/index.m3u8
-#EXTINF:0,Junior TV
-http://185.234.217.24:8020/play/a024/index.m3u8
-#EXTINF:0,Tip TV
-http://146.59.19.1/5026/mpegts
-#EXTINF:0,Tring Tring
-http://146.59.19.1/5027/mpegts
-#EXTINF:0,Tring Kids
-http://146.59.19.1/5028/mpegts
-#EXTINF:0,Zjarr TV
-http://95.107.132.106/out/u/420_1.m3u8
-#EXTINF:0,Folk +
-http://146.59.19.1:80/5045/index.m3u8
-#EXTINF:0,Melody TV
-http://185.89.156.111:8000/play/a015
-#EXTINF:0,My Music
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/171895
-#EXTINF:0,STV Folk
-http://185.234.217.24:8020/play/a00j/index.m3u8
-#EXTINF:0,Supersonic TV
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/4098
-#EXTINF:0,BBF
-http://146.59.19.1:80/5044/index.m3u8
-#EXTINF:0,Elrodi TV
-http://146.59.19.1/5046/mpegts
-#EXTINF:0,TF1
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3316
-#EXTINF:0,France 2
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3217
-#EXTINF:0,France 3
-http://pro.netmos.ovh:7355/samir/azerty/158
-#EXTINF:0,France 4
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3218
-#EXTINF:0,France 5
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/4005
-#EXTINF:0,M6
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/2664
-#EXTINF:0 tvg-id="ARTE.fr",Arte
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/373
-#EXTINF:0,C8
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/102
-#EXTINF:0,W9
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3221
-#EXTINF:0,TMC
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3223
-#EXTINF:0,TFX
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/376
-#EXTINF:0,NRJ 12
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/1456
-#EXTINF:0,LCP
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/49254
-#EXTINF:0,France Info
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/48877
-#EXTINF:0,BFM TV
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/378
-#EXTINF:0,CNews
-http://45.92.69.213:8000/play/a01q
-#EXTINF:0,CStar
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/103
-#EXTINF:0 tvg-id="Gulli.fr",Gulli
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/53341
-#EXTINF:0,LCI
-http://45.92.69.213:8000/play/a02m
-#EXTINF:0,TF1 Séries Films
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3224
-#EXTINF:0 tvg-id="EquipeTV.fr",L'Équipe
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/52720
-#EXTINF:0,6ter
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/2499
-#EXTINF:0,RMC Story
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/162
-#EXTINF:0,RMC Découverte
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/53398
-#EXTINF:0,Chérie 25
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/1459
-http://abmclass.com:8080/live/kozmoz/ykTxQkZIK4/71388.ts
-#EXTINF:-1,beiN SP0RT 1 HD
-http://abmclass.com:8080/live/kozmoz/ykTxQkZIK4/71389.ts
-#EXTINF:-1,beiN SP0RT 2 HD
-http://abmclass.com:8080/live/kozmoz/ykTxQkZIK4/71390.ts
-#EXTINF:-1,beiN SP0RT 3 HD
-http://abmclass.com:8080/live/kozmoz/ykTxQkZIK4/71391.ts
+
+
+
