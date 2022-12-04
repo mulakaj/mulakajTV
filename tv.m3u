@@ -79,6 +79,12 @@ http://84.22.44.210:8066/radio21.mp3?_=1
 http://s6.voscast.com:8824/;
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-tirana-klasik-al.png", Radio Tirana Klasik
 http://corehls01al.ekranet.com/hls/radioklasik/index.m3u8
+#EXTINF:0,Radio Tirana Jazz
+http://79.106.48.2:8000/radiotiranajazz
+#EXTINF:0,Radio Tirana Fëmijë
+http://79.106.48.2:8000/radiotiranafemije
+#EXTINF:0,Radio Tirana 3
+http://79.106.48.2:8000/radiotirana3
 #EXTINF:0,Top Gold
 http://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
@@ -87,12 +93,8 @@ https://live.top-media.al/mmr
 http://ice31.securenetsystems.net/AL09
 #EXTINF:0,Love Radio
 https://antena.albaniadigitalradio.al/loveradio
-#EXTINF:0,Radio Tirana 3
-http://79.106.48.2:8000/radiotirana3
-#EXTINF:0,Radio Tirana Jazz
-http://79.106.48.2:8000/radiotiranajazz
-#EXTINF:0,Radio Tirana Fëmijë
-http://79.106.48.2:8000/radiotiranafemije
+
+
 
 
 
