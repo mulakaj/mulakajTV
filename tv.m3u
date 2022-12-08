@@ -1,8 +1,8 @@
-#EXTM3U x-tvg-url="http://37.49.230.48:8080/xmltv.php?username=adastream&password=8289548ca0"
+#EXTM3U 
 #EXTINF:0 tvg-id="RTSH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/100px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://79.106.48.2:8800/play/a01v/index.m3u8
 #EXTINF:0,RTSH 2
-http://185.234.217.29:8004/play/rtsh2hd/index.m3u8
+http://79.106.90.114/out/u/rtsh2.m3u8
 #EXTINF:0 tvg-id="RTK 1" tvg-shift=1 tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",RTK 1
 http://146.59.19.1/5002/mpegts
 #EXTINF:0 tvg-id="KlanTV.al" tvg-name="KlanTV.al" tvg-chno="3" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png",Klan TV
@@ -10,37 +10,37 @@ http://185.234.217.29:8004/play/klantvhd/index.m3u8
 #EXTINF:0 tvg-id="Top Channel HD" tvg-name="Top Channel HD" tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
 http://185.234.217.29:8004/play/topchannel/index.m3u8
 #EXTINF:0 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",Klan Plus
-http://185.234.217.29:8004/play/klanplus/index.m3u8
+http://130.0.24.22:94/KlanPlusHD/index.m3u8?
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",Vizion Plus
-http://185.234.217.29:8004/play/vizionplus/index.m3u8
+http://185.89.156.111:8000/play/a002
 #EXTINF:0 tvg-id="RTV21.al",RTV 21
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/1343
+#EXTINF:0,Klan Kosova
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/47128
 #EXTINF:0,KTV
 http://95.107.132.105/out/u/38_3.m3u8
-#EXTINF:0,Klan Kosova
-http://185.234.217.29:8004/play/klankosova/index.m3u8
 #EXTINF:0 tvg-id="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png",ABC
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:0 tvg-id="Ora News",RTV Ora
 http://95.107.132.105/out/u/348_1.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/News%2024.png",News 24
-http://185.234.217.29:8004/play/news24/index.m3u8
+http://185.89.156.111:8000/play/a006
 #EXTINF:0,Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0 tvg-id="EuronewsALB.al" tvg-logo="http://www.albepg.com/tvlogi/EuroNews%20Albania.png",Euronews
-http://185.234.217.29:8004/play/euronewsalbania/index.m3u8
+http://185.89.156.111:8000/play/a00c
 #EXTINF:0,Fax News
 http://95.107.132.105/out/u/983_2.m3u8
 #EXTINF:0,Syri TV
 https://stream.syritv.al/out/u/syritv.m3u8
 #EXTINF:0 tvg-id="ATV" tvg-logo="http://www.albepg.com/tvlogi/ATV.png",A TV
-http://185.234.217.29:8004/play/atv/index.m3u8
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/54489
 #EXTINF:0,RTV Dukagjini
 http://37.49.230.48:8080/GenIptvLast/FaP6YswK77NaOPOF/6708
 #EXTINF:0 tvg-id="A2 CNN" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png",A2 CNN
-http://185.234.217.29:8004/play/a2cnn/index.m3u8
+http://185.89.156.111:8000/play/a00b
 #EXTINF:0,RTSH Sport
-http://95.107.132.106/out/u/362_1.m3u8
+http://185.89.156.111:8000/play/a022
 #EXTINF:0,RTSH Shkollë
 http://79.106.48.2:8800/play/a01s/index.m3u8
 #EXTINF:0,RTSH Agro
@@ -50,15 +50,15 @@ http://79.106.48.2:8800/play/a004/index.m3u8
 #EXTINF:0,RTSH 24
 http://79.106.48.2:8800/play/a01x/index.m3u8
 #EXTINF:46,RTSH Film
-http://109.104.129.195:8001/play/s16
+http://185.89.156.111:8000/play/a023
 #EXTINF:0,RTSH Shqip
 http://146.59.19.1:80/5061/index.m3u8
 #EXTINF:0,RTSH Muzikë
-http://185.56.251.38:4000/play/a01l
+http://185.89.156.111:8000/play/a025
 #EXTINF:0,RTSH Plus
-http://185.56.251.38:4000/play/a01i
+http://185.89.156.111:8000/play/a028
 #EXTINF:0,RTSH 3
-http://185.56.251.38:4000/play/a01h
+http://79.106.90.114/out/u/rtsh2.m3u8
 #EXTINF:0 tvg-logo="https://www.rtsh.al/wp-content/uploads/2019/02/logoS_RadioTirana-1-RTSH.jpg",Radio Tirana
 http://46.183.120.170/hls/radiotirana1/index.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-tirana-2-al.png",Radio Tirana 2
