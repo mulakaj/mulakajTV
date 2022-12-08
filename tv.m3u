@@ -6,9 +6,9 @@ http://79.106.90.114/out/u/rtsh2.m3u8
 #EXTINF:0 tvg-id="RTK 1" tvg-shift=1 tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",RTK 1
 http://146.59.19.1/5002/mpegts
 #EXTINF:0 tvg-id="KlanTV.al" tvg-name="KlanTV.al" tvg-chno="3" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png",Klan TV
-http://185.234.217.29:8004/play/klantvhd/index.m3u8
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/1370
 #EXTINF:0 tvg-id="Top Channel HD" tvg-name="Top Channel HD" tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
-http://185.234.217.29:8004/play/topchannel/index.m3u8
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/47075
 #EXTINF:0 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",Klan Plus
 http://130.0.24.22:94/KlanPlusHD/index.m3u8?
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",Vizion Plus
