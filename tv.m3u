@@ -58,7 +58,7 @@ http://185.89.156.111:8000/play/a025
 #EXTINF:0,RTSH Plus
 http://185.89.156.111:8000/play/a028
 #EXTINF:0,RTSH 3
-http://79.106.90.114/out/u/rtsh2.m3u8
+http://79.106.90.114/out/u/rtsh3.m3u8
 #EXTINF:0 tvg-logo="https://www.rtsh.al/wp-content/uploads/2019/02/logoS_RadioTirana-1-RTSH.jpg",Radio Tirana
 http://46.183.120.170/hls/radiotirana1/index.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-tirana-2-al.png",Radio Tirana 2
