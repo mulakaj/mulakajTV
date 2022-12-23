@@ -12,13 +12,13 @@ http://local.liveline.nu:2085/play/a0artopchannel
 #EXTINF:0 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",Klan Plus
 http://185.234.217.24:8020/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",Vizion Plus
-http://185.89.156.111:8000/play/a002
+http://95.107.132.105/out/u/622_13.m3u8
 #EXTINF:0 tvg-id="RTV21.al",RTV 21
 http://185.234.217.24:8020/play/a021/index.m3u8
 #EXTINF:0,Klan Kosova
-http://91.187.110.92:5252/klankosova
+http://185.234.217.24:8020/play/a00s/index.m3u8
 #EXTINF:0,KTV
-http://185.234.217.24:8020/play/a010/index.m3u8
+http://sansat.net:25461/crystalrussia/GZGGPJLVDMGJKZ8/95918
 #EXTINF:0 tvg-id="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png",ABC
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:0 tvg-id="Ora News",RTV Ora
@@ -34,9 +34,9 @@ http://95.107.132.105/out/u/983_2.m3u8
 #EXTINF:0,Syri TV
 https://stream.syritv.al/out/u/syritv.m3u8
 #EXTINF:0 tvg-id="ATV" tvg-logo="http://www.albepg.com/tvlogi/ATV.png",A TV
-http://185.234.217.24:8020/play/a007/index.m3u8
+http://sansat.net:25461/crystalrussia/GZGGPJLVDMGJKZ8/121840
 #EXTINF:0,RTV Dukagjini
-http://185.234.217.24:8020/play/a008/index.m3u8
+http://sansat.net:25461/crystalrussia/GZGGPJLVDMGJKZ8/95919
 #EXTINF:0 tvg-id="A2 CNN" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png",A2 CNN
 http://185.89.156.111:8000/play/a00b
 #EXTINF:0,RTSH Sport
@@ -58,7 +58,7 @@ http://185.89.156.111:8000/play/a025
 #EXTINF:0,RTSH Plus
 http://185.89.156.111:8000/play/a028
 #EXTINF:0,RTSH 3
-http://79.106.90.114/out/u/rtsh3.m3u8
+http://sansat.net:25461/crystalrussia/GZGGPJLVDMGJKZ8/95902
 #EXTINF:0 tvg-logo="https://www.rtsh.al/wp-content/uploads/2019/02/logoS_RadioTirana-1-RTSH.jpg",Radio Tirana
 http://46.183.120.170/hls/radiotirana1/index.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-tirana-2-al.png",Radio Tirana 2
