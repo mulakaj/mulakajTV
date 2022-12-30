@@ -36,7 +36,7 @@ https://stream.syritv.al/out/u/syritv.m3u8
 #EXTINF:0 tvg-id="ATV" tvg-logo="http://www.albepg.com/tvlogi/ATV.png",A TV
 rtp://@232.0.9.5:8200
 #EXTINF:0,RTV Dukagjini
-http://185.234.217.24:8020/play/a008/index.m3u8
+https://stream.syritv.al/out/u/syritv.m3u8
 #EXTINF:0 tvg-id="A2 CNN" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png",A2 CNN
 http://185.89.156.111:8000/play/a00b
 #EXTINF:0,RTSH Sport
