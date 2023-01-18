@@ -2,35 +2,35 @@
 #EXTINF:0 tvg-id="RTSH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/100px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://79.106.48.2:8800/play/a01v/index.m3u8
 #EXTINF:0,RTSH 2
-http://185.89.156.111:8000/play/a020
+http://109.104.129.195:8001/play/s22
 #EXTINF:0 tvg-id="RTK 1" tvg-shift=1 tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",RTK 1
 http://146.59.19.1/5002/mpegts
 #EXTINF:0 tvg-id="KlanTV.al" tvg-name="KlanTV.al" tvg-chno="3" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png",Klan TV
 http://89.39.106.21:8080/KlANhDsfas/index.m3u8?
 #EXTINF:0 tvg-id="Top Channel HD" tvg-name="Top Channel HD" tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
-http://185.234.217.24:8020/play/a039/index.m3u8
+http://185.234.217.29:8007/play/a039/index.m3u8
 #EXTINF:0 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",Klan Plus
-http://185.234.217.24:8020/play/a00w/index.m3u8
+http://185.234.217.29:8007/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",Vizion Plus
 http://95.107.132.105/out/u/622_13.m3u8
 #EXTINF:0 tvg-id="RTV21.al",RTV 21
-http://185.234.217.24:8020/play/a021/index.m3u8
+http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/11097
 #EXTINF:0,Klan Kosova
 http://clientsportals.com:2095/fqAEYSeq/azMUkNnz/11091
 #EXTINF:0,KTV
-http://185.234.217.24:8020/play/a010/index.m3u8
+http://ott.dobratv.net:25461/ProxyIPTV/112233445566/7402
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/News%2024.png",News 24
-http://185.89.156.111:8000/play/a006
+http://109.104.129.195:8002/play/s35
 #EXTINF:0 tvg-id="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png",ABC
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:0,Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0 tvg-id="EuronewsALB.al" tvg-logo="http://www.albepg.com/tvlogi/EuroNews%20Albania.png",Euronews
-http://185.89.156.111:8000/play/a00c
+http://109.104.129.195:8000/play/s83
 #EXTINF:0,Fax News
 http://95.107.132.105/out/u/983_2.m3u8
 #EXTINF:0,Syri TV
-http://185.234.217.24:8020/play/a036/index.m3u8
+http://109.104.129.195:8000/play/s86
 #EXTINF:0 tvg-id="ATV" tvg-logo="http://www.albepg.com/tvlogi/ATV.png",A TV
 http://server.sibfungold.info:8080/sonic682/Czu7pGMrbR/54489
 #EXTINF:0 tvg-logo="https://www.rtsh.al/wp-content/uploads/2019/02/logoS_RadioTirana-1-RTSH.jpg",Radio Tirana
