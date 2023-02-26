@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0 tvg-id="RTSH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/100px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
+#EXTINF:0 tvg-id="RTSH1 HD",RTSH 1                  mulakajTV
 http://79.106.48.2:8800/play/a01v/index.m3u8
 #EXTINF:0,RTSH 2
 http://109.104.129.195:8001/play/s22
@@ -33,7 +33,7 @@ http://95.107.132.105/out/u/983_2.m3u8
 http://185.234.217.29:8007/play/a036/index.m3u8
 #EXTINF:0 tvg-id="ATV" tvg-logo="http://www.albepg.com/tvlogi/ATV.png",A TV
 http://cloudcdn.city:80/BlIm21564/agf7Fp264/73298
-#EXTINF:0 tvg-logo="https://www.rtsh.al/wp-content/uploads/2019/02/logoS_RadioTirana-1-RTSH.jpg",Radio Tirana
+#EXTINF:0,Radio Tirana                             mulakajRadio
 http://79.106.48.2:8000/radiotirana1
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-tirana-2-al.png",Radio Tirana 2
 http://79.106.48.2:8000/radiotirana2
