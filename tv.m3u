@@ -67,6 +67,149 @@ https://live.top-media.al/mmr
 http://ice31.securenetsystems.net/AL09
 #EXTINF:0,Love Radio
 https://antena.albaniadigitalradio.al/loveradio
+#EXTM3U
+#EXTINF:0 tvg-id="TringSuper.al",Tring Super
+http://95.107.132.105/out/u/1069_2.m3u8
+#EXTINF:60,Tring Action
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/1404
+#EXTINF:60,Series
+http://95.107.132.105/out/u/996_2.m3u8
+#EXTINF:60,KanalD Drama
+http://95.107.132.105/out/u/1018_2.m3u8
+#EXTINF:0,Vizion Plus
+http://95.107.132.105/out/u/622_13.m3u8
+#EXTINF:0,Top Channel
+http://91.132.172.167:8000/play/a023
+#EXTINF:0,RTK 1
+http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/22814?
+#EXTINF:0,RTSH 2
+http://79.106.90.124:5151/live/rtsh2/playlist.m3u8
+#EXTINF:24,RTSH 1
+http://79.106.90.124:5151/live/rtsh1ott/playlist.m3u8
+#EXTINF:0,Klan TV
+http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
+#EXTINF:0,Klan Plus
+http://79.106.90.114:3131/live/klanplusott/playlist.m3u8
+#EXTINF:0,RTV 21
+http://95.107.132.105/out/u/610_2.m3u8
+#EXTINF:0,Klan Kosova
+http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/4189
+#EXTINF:0,KTV
+http://95.107.132.105/out/u/38_3.m3u8
+#EXTINF:0,ABC
+http://185.234.217.29:8007/play/a00b/index.m3u8
+#EXTINF:0,Euronews
+http://79.106.90.124:5151/live/euronewsott/playlist.m3u8
+#EXTINF:0,News 24
+http://79.106.90.124:5151/live/news24ott/playlist.m3u8
+#EXTINF:0,Report TV
+http://185.234.217.29:8007/play/a023/index.m3u8
+#EXTINF:0,Fax News
+http://79.106.90.114:3131/live/faxnewsott/playlist.m3u8
+#EXTINF:0,RTSH 24
+http://79.106.90.114:3131/live/rtsh24/playlist.m3u8
+#EXTINF:0,Syri TV
+http://79.106.48.2:8800/play/t001/index.m3u8
+#EXTINF:0,IN TV
+http://185.234.217.29:8007/play/a00p/index.m3u8
+#EXTINF:0,ATV
+http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/73298
+#EXTINF:0,TëVë1 
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/42672
+#EXTINF:0,BIG BROTHER VIP 1
+http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/117771?
+#EXTINF:0,BIG BROTHER VIP 2
+http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/117772?
+#EXTINF:0,Radio Tirana
+http://79.106.48.2:8000/radiotirana1
+#EXTINF:0,Radio Tirana 2
+http://79.106.48.2:8000/radiotirana2
+#EXTINF:0,Radio Kosova
+http://82.114.72.2:8088/;stream/1
+#EXTINF:0,Radio Kosova 2
+http://82.114.72.2:8098/;stream/1
+#EXTINF:0,Top Albania Radio 🇦🇱
+https://live.topgold.al/tar
+#EXTINF:49,Radio Klan
+http://79.106.90.124:5151/live/klanmusicradio1/playlist.m3u8
+#EXTINF:0,Club FM
+https://cp1.sednastream.com/proxy/clubfm?mp=/stream
+#EXTINF:0,Radio 21
+http://84.22.44.210:8066/radio21.mp3?_=1
+#EXTINF:0,Radio Dukagjini
+http://s6.voscast.com:8824/;
+#EXTINF:0, Radio Tirana Klasik
+http://79.106.48.2:8000/radiotiranaklasik1
+#EXTINF:0,NRG Radio
+http://ice31.securenetsystems.net/AL09
+#EXTINF:0,Love Radio
+https://antena.albaniadigitalradio.al/loveradio
+#EXTINF:0,Radio Tirana Jazz
+http://79.106.48.2:8000/radiotiranajazz
+#EXTINF:0,Radio Tirana Fëmijë
+http://79.106.48.2:8000/radiotiranafemije
+#EXTINF:0,Radio Tirana 3
+http://79.106.48.2:8000/radiotirana3
+#EXTINF:0,Top Gold
+http://live.topgold.al/topgold
+#EXTINF:0,My Music Radio
+https://live.top-media.al/mmr
+#EXTINF:60,Tring Classic
+http://95.107.132.106/out/u/1114_2.m3u8
+#EXTINF:60,Tring Collection
+http://95.107.132.105/out/u/907_2.m3u8
+#EXTINF:60,Tring Fantasy
+http://95.107.132.105/out/u/1002_2.m3u8
+#EXTINF:60,Tring Family
+http://95.107.132.105/out/u/1012_2.m3u8
+#EXTINF:60,Living 
+http://95.107.132.105/out/u/990_2.m3u8
+#EXTINF:0,Turkish Stories
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/62045
+#EXTINF:0,Tring Novelas
+http://95.107.132.105/out/u/910_1.m3u8
+#EXTINF:0,Bubble
+https://mfe01.tring.al/delta/106/out/u/1118_3.m3u8
+#EXTINF:0,RTSH Sport
+http://79.106.90.124:5151/live/rtshsport/playlist.m3u8
+#EXTINF:0,Tring Sport News
+http://cloudcdn.city:80/BlIm21564/agf7Fp264/8077
+#EXTINF:27,Tring Sport 1
+http://79.174.24.254:8002/play/a00m/index.m3u8
+#EXTINF:28,Tring Sport 2
+http://79.174.24.254:8002/play/a00n/index.m3u8
+#EXTINF:60,Duck TV
+https://ef3d941a9095450e888b479dc77bc037.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_DuckTV/ed8e887a-a68b-4aad-bc2b-b634a4766a64/0.m3u8
+#EXTINF:0,TF1
+http://livetv.ktv.zone/103/play.m3u8
+#EXTINF:-1,France 2
+http://livetv.ktv.zone/104/play.m3u8
+#EXTINF:0,France 3
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:0,France 5
+http://livetv.ktv.zone/107/play.m3u8
+#EXTINF:0,M6
+http://livetv.ktv.zone/108/play.m3u8
+#EXTINF:0 tvg-id="ARTE.fr",Arte
+http://livetv.ktv.zone/109/play.m3u8
+#EXTINF:0,LCP
+http://livetv.ktv.zone/115/play.m3u8
+#EXTINF:-1,France 4 
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF:0,BFM TV
+http://154.58.202.35:8001/play/a0cc/index.m3u8
+#EXTINF:0,CNews
+http://livetv.ktv.zone/118/play.m3u8
+#EXTINF:0 tvg-id="Gulli.fr",GULLI
+http://154.58.202.35:8001/play/a0co/index.m3u8
+#EXTINF:0 tvg-id="EquipeTV.fr",L'ÉQUIPE
+#EXTVLCOPT:network-caching=1000
+http://154.58.202.35:8001/play/a0cl/index.m3u8
+#EXTINF:0,LCI
+http://livetv.ktv.zone/28/play.m3u8
+#EXTINF:0 tvg-id="Franceinfo.fr",FRANCEINFO:
+#EXTVLCOPT:network-caching=1000
+http://154.58.202.35:8001/play/a0bp/index.m3u8
 
 
 
