@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv_fr.xml"
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv-tnt.xml"
 #EXTINF:0 tvg-id="RTSH1 HD",RTSH 1                  mulakajTV
 http://185.234.217.29:8007/play/a016/index.m3u8
 #EXTINF:0,RTSH 2
@@ -192,7 +192,7 @@ http://livetv.ktv.zone/107/play.m3u8
 http://livetv.ktv.zone/108/play.m3u8
 #EXTINF:0 tvg-id="ARTE.fr",Arte
 http://livetv.ktv.zone/109/play.m3u8
-#EXTINF:0,LCP
+#EXTINF:0 tvg-id="LaChaineParlementaire.fr",LCP
 http://livetv.ktv.zone/115/play.m3u8
 #EXTINF:-1,France 4 
 http://livetv.ktv.zone/116/play.m3u8
@@ -202,7 +202,7 @@ http://154.58.202.35:8001/play/a0cc/index.m3u8
 http://livetv.ktv.zone/118/play.m3u8
 #EXTINF:0 tvg-id="Gulli.fr",GULLI
 http://154.58.202.35:8001/play/a0co/index.m3u8
-#EXTINF:0 tvg-id="EquipeTV.fr",L'ÉQUIPE
+#EXTINF:0 tvg-id="LEquipe21.fr",L'ÉQUIPE
 #EXTVLCOPT:network-caching=1000
 http://154.58.202.35:8001/play/a0cl/index.m3u8
 #EXTINF:0,LCI
