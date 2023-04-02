@@ -4,7 +4,7 @@ http://185.234.217.29:8007/play/a016/index.m3u8
 #EXTINF:0,RTSH 2
 http://79.106.90.124:5151/live/rtsh2/playlist.m3u8
 #EXTINF:0 tvg-id="RTK 1" tvg-shift=1 tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",RTK 1
-http://cloudcdn.city:80/BlIm21564/agf7Fp264/22814?
+http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/22814?
 #EXTINF:0 tvg-id="KlanTV.al" tvg-name="KlanTV.al" tvg-chno="3" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png",Klan TV
 http://185.234.217.29:8007/play/a00x/index.m3u8
 #EXTINF:0 tvg-id="Top Channel HD" tvg-name="Top Channel HD" tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
@@ -14,7 +14,7 @@ http://185.234.217.29:8007/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",Vizion Plus
 http://95.107.132.105/out/u/622_13.m3u8
 #EXTINF:0 tvg-id="RTV21.al",RTV 21
-http://cloudcdn.city:80/BlIm21564/agf7Fp264/3832
+http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/3832
 #EXTINF:0,Klan Kosova
 http://viptv.me:80/blackkill/vg8u9xXi8g/55232
 #EXTINF:0,KTV
@@ -32,7 +32,7 @@ http://95.107.132.105/out/u/983_2.m3u8
 #EXTINF:0,Syri TV
 http://185.234.217.29:8007/play/a036/index.m3u8
 #EXTINF:0 tvg-id="ATV" tvg-logo="http://www.albepg.com/tvlogi/ATV.png",A TV
-http://cloudcdn.city:80/BlIm21564/agf7Fp264/73298
+http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/73298
 #EXTINF:0,Radio Tirana                             mulakajRadio
 http://79.106.48.2:8000/radiotirana1
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-tirana-2-al.png",Radio Tirana 2
