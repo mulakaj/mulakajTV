@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="http://185.101.139.210/xmltv.xml"
 #EXTINF:0 tvg-id="RTSH1 HD",RTSH 1                  mulakajTV
 http://185.234.217.29:8007/play/a016/index.m3u8
 #EXTINF:0,RTSH 2
