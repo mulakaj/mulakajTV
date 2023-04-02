@@ -28,13 +28,13 @@ http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/4189
 #EXTINF:0,KTV
 http://95.107.132.105/out/u/38_3.m3u8
 #EXTINF:0,ABC
-http://185.234.217.29:8007/play/a00b/index.m3u8
+http://79.106.90.124:5151/live/abcnewsott/playlist.m3u8
 #EXTINF:0,Euronews
 http://79.106.90.124:5151/live/euronewsott/playlist.m3u8
 #EXTINF:0,News 24
 http://79.106.90.124:5151/live/news24ott/playlist.m3u8
 #EXTINF:0,Report TV
-http://185.234.217.29:8007/play/a023/index.m3u8
+http://79.106.90.124:5151/live/reportott/playlist.m3u8
 #EXTINF:0,Fax News
 http://79.106.90.114:3131/live/faxnewsott/playlist.m3u8
 #EXTINF:0,RTSH 24
