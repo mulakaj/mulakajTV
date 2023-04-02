@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://cleverside.us:8484/xmltv.php?username=ilyrianSPort&password=rjAXdZ85a9cP"
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"
 #EXTINF:0 tvg-id="TringSuper.al",Tring Super
 http://95.107.132.105/out/u/1069_2.m3u8
 #EXTINF:60,Tring Action
