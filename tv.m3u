@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"
 #EXTINF:24,RTSH 1
 http://cloudcdn.city:80/BlIm21564/agf7Fp264/15632
+#EXTINF:0,Radio Tirana
+http://79.106.48.2:8000/radiotirana1
 #EXTINF:0 tvg-id="TringSuper.al",Tring Super
 http://95.107.132.105/out/u/1069_2.m3u8
 #EXTINF:60,Tring Action
@@ -51,8 +53,6 @@ http://185.179.28.211:8000/play/a02z
 http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/117771?
 #EXTINF:0,BIG BROTHER VIP 2
 http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/117772?
-#EXTINF:0,Radio Tirana
-http://79.106.48.2:8000/radiotirana1
 #EXTINF:0,Radio Tirana 2
 http://79.106.48.2:8000/radiotirana2
 #EXTINF:0,Radio Kosova
