@@ -1,8 +1,12 @@
 #EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"
 #EXTINF:24,RTSH 1
-http://cloudcdn.city:80/BlIm21564/agf7Fp264/15632
+http://185.234.217.29:8007/play/a016/index.m3u8
+#EXTINF:0,RTSH 2
+http://79.106.90.124:5151/live/rtsh2/playlist.m3u8
 #EXTINF:0,Radio Tirana
 http://79.106.48.2:8000/radiotirana1
+#EXTINF:0,Radio Tirana 2
+http://79.106.48.2:8000/radiotirana2
 #EXTINF:0 tvg-id="TringSuper.al",Tring Super
 http://95.107.132.105/out/u/1069_2.m3u8
 #EXTINF:60,Tring Action
@@ -14,11 +18,9 @@ http://95.107.132.105/out/u/1018_2.m3u8
 #EXTINF:0,Vizion Plus
 http://95.107.132.105/out/u/622_13.m3u8
 #EXTINF:0,Top Channel
-http://91.132.172.167:8000/play/a023
+http://cloudcdn.city:80/BlIm21564/agf7Fp264/4178
 #EXTINF:0,RTK 1
 http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/22814?
-#EXTINF:0,RTSH 2
-http://79.106.90.124:5151/live/rtsh2/playlist.m3u8
 #EXTINF:0,Klan TV
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:0,Klan Plus
@@ -53,8 +55,6 @@ http://185.179.28.211:8000/play/a02z
 http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/117771?
 #EXTINF:0,BIG BROTHER VIP 2
 http://cloudcdn.city:80/DpJZqmVb4m367/fbHMIm779/117772?
-#EXTINF:0,Radio Tirana 2
-http://79.106.48.2:8000/radiotirana2
 #EXTINF:0,Radio Kosova
 http://82.114.72.2:8088/;stream/1
 #EXTINF:0,Radio Kosova 2
@@ -139,7 +139,7 @@ http://154.58.202.35:8001/play/a0cl/index.m3u8
 #EXTINF:0,LCI
 http://livetv.ktv.zone/28/play.m3u8
 #EXTINF:0 tvg-id="Franceinfo.fr",FRANCEINFO:
-http://livetv.ktv.zone/29/play.m3u8
+http://154.58.202.35:8001/play/a0bp/index.m3u8
 
 
 
