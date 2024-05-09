@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://xmltv.tvkaista.net/guides/ipko.com.xml, https://www.bevy.be/bevyfiles/albaniapremium1.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="Tring Super.al",Tring Super
 http://goodtv.nicgo.xyz:80/live/Manu1008B/797307859M122/769569.ts
 #EXTINF:-1 tvg-id="Tring Action.al",Tring Action
