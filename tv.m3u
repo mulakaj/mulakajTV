@@ -8,9 +8,9 @@ http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/295528
 #EXTINF:0 tvg-id="Tring Classics.al",Tring Classic
 http://iptvtree.net:8080/nuqi2/f9f02d45/290516
 #EXTINF:0,Big Brother Kosova 1
-http://iptvtree.net:8080/nuqi2/f9f02d45/297206
+http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/297206
 #EXTINF:0,Big Brother Kosova 2
-http://iptvtree.net:8080/nuqi2/f9f02d45/297207
+http://51.15.10.229/bigBrotherAlb2/index.m3u8
 #EXTINF:0 tvg-shift="-1" tvg-id="Vizion + HD.al",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 tvg-id="TOP Channel.al" tvg-name="Top Channel.al",Top Channel
@@ -28,7 +28,7 @@ http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
 #EXTINF:0 tvg-id="RTV 21.al",RTV21
 http://136.243.32.241:8081/yWbXvr1S/rtv21_720p/playlist.m3u8
 #EXTINF:0 tvg-id="Klan Kosova.al",Klan Kosova
-http://iptvtree.net:8080/nuqi2/f9f02d45/2561
+http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/2561
 #EXTINF:0 tvg-id="KTV.al",KTV
 http://136.243.32.241:8081/yWbXvr1S/ktv119new_720p/playlist.m3u8
 #EXTINF:0 tvg-id="RTSH 24.al",RTSH 24
@@ -113,3 +113,28 @@ http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/5144
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/158
 #EXTINF:-1 tvg-id="RTK.mk",RTK Sat
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="TNT",TF1
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/439
+#EXTINF:-1 tvg-chno="2" tvg-id="France 2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT",France 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="France 3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT",France 3
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
+#EXTINF:-1  tvg-id="France 4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",France 4 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="France 5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info",France 5
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png" group-title="TNT",M6
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/414
+#EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="Documentaire",Arte
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
+#EXTINF:-1 tvg-id="La Chaîne parlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info",LCP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png" group-title="Info",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="LCI - La Chaîne Info.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png" group-title="Info",LCI
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/LCI.m3u8
+#EXTINF:-1  tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png" group-title="Info",franceinfo:
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+
