@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/generate/HeOiESBxdm.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="Tring Super HD.al",Tring Super
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/1303
 #EXTINF:-1 tvg-id="Tring Action HD.al",Tring Action
@@ -7,6 +7,10 @@ http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/1308
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/295528
 #EXTINF:0 tvg-id="Tring Classics.al",Tring Classic
 http://iptvtree.net:8080/nuqi2/f9f02d45/290516
+#EXTINF:-1,Big Brother Vip 1
+http://185.222.138.254:8080/bigbrotheral1/mpegts
+#EXTINF:-1,Big Brother Vip 2
+http://185.222.138.254:8080/bigbrother2al/mpegts
 #EXTINF:0,Big Brother Kosova 1
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/297206
 #EXTINF:0,Big Brother Kosova 2
@@ -124,7 +128,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-chno="5" tvg-id="France 5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png" group-title="TNT",M6
-http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/414
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/414
 #EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="Documentaire",Arte
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
 #EXTINF:-1 tvg-id="La Chaîne parlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info",LCP
@@ -137,4 +141,5 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/LCI.m3u8
 #EXTINF:-1  tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png" group-title="Info",franceinfo:
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+
 
