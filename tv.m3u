@@ -17,7 +17,7 @@ http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/297206
 http://51.15.10.229/bigBrotherAlb2/index.m3u8
 #EXTINF:0 tvg-shift="-1" tvg-id="Vizion + HD.al",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0 tvg-id="TOP Channel.al" tvg-name="Top Channel.al",Top Channel
+#EXTINF:0 tvg-id="TOP Channel.al",Top Channel
 http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:0 tvg-id="RTK 1.al",RTK 1
 http://195.200.234.186:8000/play/a05s
@@ -73,7 +73,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v2a1/
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/295527
 #EXTINF:0 tvg-id="T7.al",T7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TV Dukagjini.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/fa3c38ea620be6656c37ec59faa83bdd.png" group-title="Albania ➾ LifeStyle",TV Dukagjini
+#EXTINF:-1 tvg-id="TV Dukagjini.al",TV Dukagjini
 http://amdcam.tibo.tv:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Tring Family.al",Tring Family
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104059
