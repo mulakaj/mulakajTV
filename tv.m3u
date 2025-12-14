@@ -23,7 +23,7 @@ http://185.222.138.254:8080/topchannel/mpegts
 http://195.200.234.186:8000/play/a05s
 #EXTINF:0 tvg-id="RTSH 2.hr",RTSH 2
 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
-#EXTINF:24 tvg-id="RTSH 1.al",RTSH 1
+#EXTINF:24 tvg-id="RTSH 1.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/0f9e089f10181b4032a1060569407a01.svg",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0 tvg-id="Klan.al",Klan TV HD
 http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
