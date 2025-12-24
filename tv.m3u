@@ -118,7 +118,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/158
 #EXTINF:-1 tvg-id="RTK.mk",RTK Sat
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="TNT",TF1
-http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/439
+http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/439
 #EXTINF:-1 tvg-chno="2" tvg-id="France 2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="France 3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT",France 3
