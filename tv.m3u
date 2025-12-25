@@ -2,13 +2,15 @@
 #EXTINF:0 tvg-shift="-1" tvg-id="Vizion + HD.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 tvg-id="TOP Channel.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1280px-Top_Channel.svg.png",Top Channel
-http://185.222.138.254:8080/topchannel/mpegts
+http://217.73.139.200:5443/play/a016
 #EXTINF:0 tvg-id="RTK 1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
 http://195.200.234.186:8000/play/a05s
 #EXTINF:24 tvg-id="RTSH 1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0 tvg-id="Klan.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/2560px-TV_Klan.svg.png",Klan TV HD
 http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
+#EXTINF:0 tvg-id="Klan Kosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
+http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/2561
 #EXTINF:0 tvg-id="RTSH 24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RTSH_24_%282020_Logo%29.svg/2560px-RTSH_24_%282020_Logo%29.svg.png" ,RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 #EXTINF:0 tvg-id="ABCNews.al" tvg-logo="https://abcnews.al/wp-content/uploads/2023/12/cropped-logo-festa-1024.png",ABC
