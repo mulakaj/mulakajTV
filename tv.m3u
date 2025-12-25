@@ -27,7 +27,7 @@ http://136.243.32.241:8081/yWbXvr1S/rtv21_720p/playlist.m3u8
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/2561
 #EXTINF:0 tvg-id="KTV.al",KTV
 http://136.243.32.241:8081/yWbXvr1S/ktv119new_720p/playlist.m3u8
-#EXTINF:0 tvg-id="RTSH 24.al",RTSH 24
+#EXTINF:0 tvg-id="RTSH 24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RTSH_24_%282020_Logo%29.svg/2560px-RTSH_24_%282020_Logo%29.svg.png" ,RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 #EXTINF:-1 tvg-id="News24.al",News24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
