@@ -1,137 +1,19 @@
 #EXTM3U
-#EXTINF:-1,Big Brother Vip 1
-http://185.222.138.254:8080/bigbrotheral1/mpegts
-#EXTINF:-1,Big Brother Vip 2
-http://185.222.138.254:8080/bigbrother2al/mpegts
-#EXTINF:0,Big Brother Kosova 1
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/297206
-#EXTINF:0,Big Brother Kosova 2
-http://51.15.10.229/bigBrotherAlb2/index.m3u8
 #EXTINF:0 tvg-shift="-1" tvg-id="Vizion + HD.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 tvg-id="TOP Channel.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1280px-Top_Channel.svg.png",Top Channel
 http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:0 tvg-id="RTK 1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
 http://195.200.234.186:8000/play/a05s
-#EXTINF:0 tvg-id="RTSH 2.hr",RTSH 2
-http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
 #EXTINF:24 tvg-id="RTSH 1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0 tvg-id="Klan.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/2560px-TV_Klan.svg.png",Klan TV HD
 http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
-#EXTINF:0 tvg-id="Klan Plus.al",Klan Plus
-http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
-#EXTINF:0 tvg-id="RTV 21.al",RTV21
-http://136.243.32.241:8081/yWbXvr1S/rtv21_720p/playlist.m3u8
-#EXTINF:0 tvg-id="Klan Kosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/2561
-#EXTINF:0 tvg-id="KTV.al",KTV
-http://136.243.32.241:8081/yWbXvr1S/ktv119new_720p/playlist.m3u8
 #EXTINF:0 tvg-id="RTSH 24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RTSH_24_%282020_Logo%29.svg/2560px-RTSH_24_%282020_Logo%29.svg.png" ,RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.al",News24
-http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 #EXTINF:0 tvg-id="ABCNews.al" tvg-logo="https://abcnews.al/wp-content/uploads/2023/12/cropped-logo-festa-1024.png",ABC
 http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
-#EXTINF:0 tvg-id="Report TV.al",Report TV
-http://178.33.11.6:8696/live/reportott/playlist.m3u8
-#EXTINF:0 tvg-id="Klan News.al",Klan News
+#EXTINF:0 tvg-id="Klan News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/0d8ad0f34c08fc3c2c450416dce507c6.png",Klan News
 http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
-#EXTINF:-1 tvg-id="[AL] ora-news.hr",Ora News
-http://178.33.11.6:8696/live/oranewspp1/playlist.m3u8
-#EXTINF:0,Premium Channel
-http://217.73.139.200:5443/play/a01w
-#EXTINF:-1 tvg-id="A2 CNN.al",A2cnn
-http://178.33.11.6:8696/live/a2mobott/playlist.m3u8
-#EXTINF:0 tvg-id="Euronews Albania.al",Euronews
-http://178.33.11.6:8696/live/euronewsott/playlist.m3u8
-#EXTINF:-1 tvg-id="Fax News.al",Fax News
-http://178.33.11.6:8696/live/faxnewsott/playlist.m3u8
-#EXTINF:0 tvg-id="Syri TV.al",Syri TV
-http://178.33.11.6:8696/live/syritvott/playlist.m3u8
-#EXTINF:0 tvg-id="Klan Music.al",Klan Music
-http://178.33.11.6:8696/live/klanmusicott/playlist.m3u8
-#EXTINF:0 tvg-id="[AL] rtsh-sport.hr",RTSH Sport
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/2568
-#EXTINF:0 tvg-id="TOP News.al",Top News
+#EXTINF:0 tvg-id="TOP News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png",Top News
 http://217.73.139.200:5443/play/a017
-#EXTINF:0 tvg-id="IN TV AL.hr",IN TV
-http://178.33.11.6:8696/live/intvpp1/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.al",CNA 
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0 tvg-id="ATV.al",ATV 
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v2a1/mono.ts.m3u8
-#EXTINF:0 tvg-id="TeVe 1.al",Tëvë 1
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/295527
-#EXTINF:0 tvg-id="T7.al",T7
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TV Dukagjini.al",TV Dukagjini
-http://amdcam.tibo.tv:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Tring Family.al",Tring Family
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104059
-#EXTINF:-1 tvg-id="Tring Life.al",Tring Life
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/1309
-#EXTINF:-1 tvg-id="Tring Comedy.al",Tring Comedy
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/1310
-#EXTINF:-1 tvg-id="Tring Fantasy.al",Tring Fantasy
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/2577
-#EXTINF:-1 tvg-id="Tring Series.al",Tring Series
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/296833
-#EXTINF:-1 tvg-id="3 Plus.al",Tring 3Plus
-http://iptvtree.net:8080/nuqi2/f9f02d45/4105
-#EXTINF:-1 tvg-id="Novelas.al",Tring Novelas
-http://51.15.10.229/Al_novelas/index.m3u8
-#EXTINF:0 tvg-id="Turkish Stories.al",Turkish Stories 
-http://51.15.10.229/Al_stories/index.m3u8
-#EXTINF:0 tvg-id="KanalD Drama.al",Kanal D Drama
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/82730
-#EXTINF:-1 tvg-id="Tring Originals.al",Tring Original
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/104060
-#EXTINF:-1 tvg-id="Living HD.al",Living HD
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/128
-#EXTINF:0 tvg-shift="-1" tvg-id="Tring History.al",Tring History 
-http://iptvtree.net:8080/nuqi2/f9f02d45/1345
-#EXTINF:-1 tvg-id="Muse.al",Muse
-http://iptvtree.net:8080/nuqi2/f9f02d45/4072
-#EXTINF:0 tvg-id="Bubble.al",Bubble TV
-http://iptvtree.net:8080/nuqi2/f9f02d45/300156
-#EXTINF:-1 tvg-id="Tring Sport News.al",Tring Sport News
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/1861
-#EXTINF:0 tvg-id="RTSH Femijë.al",RTSH Fëmijë
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/5146
-#EXTINF:0 tvg-id="RTSH Shkollë.al",RTSH Shkollë
-http://iptvtree.net:8080/nuqi2/f9f02d45/1856
-#EXTINF:-1 tvg-id="RTSH Shqip.al",RTSH Shqip
-http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
-#EXTINF:0 tvg-id="RTSH Muzike.al",RTSH Muzikë
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/5144
-#EXTINF:-1 tvg-id="RTSH SAT HD.mk" tvg-logo="" group-title="Albania",RTSH Sat
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/158
-#EXTINF:-1 tvg-id="RTK.mk",RTK Sat
-https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="TNT",TF1
-http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/439
-#EXTINF:-1 tvg-chno="2" tvg-id="France 2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT",France 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="France 3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT",France 3
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
-#EXTINF:-1  tvg-id="France 4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",France 4 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="France 5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info",France 5
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png" group-title="TNT",M6
-http://cobb.shott.top/p/90e9af64ed73ebe7f71c2937548c1f77/414
-#EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="Documentaire",Arte
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTINF:-1 tvg-id="La Chaîne parlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info",LCP
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png" group-title="Info",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT",CNews
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="LCI - La Chaîne Info.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png" group-title="Info",LCI
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/LCI.m3u8
-#EXTINF:-1  tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png" group-title="Info",franceinfo:
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-
-
