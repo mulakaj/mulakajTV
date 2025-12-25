@@ -11,7 +11,7 @@ http://51.15.10.229/bigBrotherAlb2/index.m3u8
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 tvg-id="TOP Channel.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1280px-Top_Channel.svg.png",Top Channel
 http://185.222.138.254:8080/topchannel/mpegts
-#EXTINF:0 tvg-id="RTK 1.al",RTK 1
+#EXTINF:0 tvg-id="RTK 1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
 http://195.200.234.186:8000/play/a05s
 #EXTINF:0 tvg-id="RTSH 2.hr",RTSH 2
 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
@@ -23,7 +23,7 @@ http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
 http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
 #EXTINF:0 tvg-id="RTV 21.al",RTV21
 http://136.243.32.241:8081/yWbXvr1S/rtv21_720p/playlist.m3u8
-#EXTINF:0 tvg-id="Klan Kosova.al",Klan Kosova
+#EXTINF:0 tvg-id="Klan Kosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/2561
 #EXTINF:0 tvg-id="KTV.al",KTV
 http://136.243.32.241:8081/yWbXvr1S/ktv119new_720p/playlist.m3u8
