@@ -7,7 +7,7 @@ http://185.222.138.254:8080/bigbrother2al/mpegts
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/297206
 #EXTINF:0,Big Brother Kosova 2
 http://51.15.10.229/bigBrotherAlb2/index.m3u8
-#EXTINF:0 tvg-shift="-1" tvg-id="Vizion + HD.al",Vizion Plus
+#EXTINF:0 tvg-shift="-1" tvg-id="Vizion + HD.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 tvg-id="TOP Channel.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1280px-Top_Channel.svg.png",Top Channel
 http://185.222.138.254:8080/topchannel/mpegts
