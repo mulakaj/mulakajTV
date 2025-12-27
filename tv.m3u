@@ -11,7 +11,7 @@ http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
 http://217.73.139.200:5443/play/a016
 #EXTINF:0 tvg-id="Klan.News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/0d8ad0f34c08fc3c2c450416dce507c6.png",Klan News
 http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
-#EXTINF:0 tvg-shift="-1" tvg-id="Vizion.+.HD.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png",Vizion + HD
+#EXTINF:0 tvg-id="Vizion.+.HD.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png",Vizion + HD
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 tvg-id="TOP.News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png",Top News
 http://217.73.139.200:5443/play/a017
