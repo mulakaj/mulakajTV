@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:24 tvg-id="RTSH 1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
+#EXTINF:24 tvg-id="RTSH.1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
-#EXTINF:0 tvg-id="RTK 1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
+#EXTINF:0 tvg-id="RTK.1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
 http://195.200.234.186:8000/play/a05s
-#EXTINF:0 tvg-id="RTSH 24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RTSH_24_%282020_Logo%29.svg/2560px-RTSH_24_%282020_Logo%29.svg.png" ,RTSH 24
+#EXTINF:0 tvg-id="RTSH.24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RTSH_24_%282020_Logo%29.svg/2560px-RTSH_24_%282020_Logo%29.svg.png" ,RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
-#EXTINF:0 tvg-id="Klan.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/2560px-TV_Klan.svg.png",Klan TV HD
+#EXTINF:0 tvg-id="Klan.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/2560px-TV_Klan.svg.png",Klan
 http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
-#EXTINF:0 tvg-id="TOP Channel.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1280px-Top_Channel.svg.png",Top Channel
+#EXTINF:0 tvg-id="TOP.Channel.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1280px-Top_Channel.svg.png",Top Channel
 http://217.73.139.200:5443/play/a016
-#EXTINF:0 tvg-id="Klan News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/0d8ad0f34c08fc3c2c450416dce507c6.png",Klan News
+#EXTINF:0 tvg-id="Klan.News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/0d8ad0f34c08fc3c2c450416dce507c6.png",Klan News
 http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
-#EXTINF:0 tvg-shift="-1" tvg-id="Vizion + HD.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png",Vizion Plus
+#EXTINF:0 tvg-shift="-1" tvg-id="Vizion.+.HD.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png",Vizion + HD
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0 tvg-id="TOP News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png",Top News
+#EXTINF:0 tvg-id="TOP.News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png",Top News
 http://217.73.139.200:5443/play/a017
 #EXTINF:0 tvg-id="ABCNews.al" tvg-logo="https://abcnews.al/wp-content/uploads/2023/12/cropped-logo-festa-1024.png",ABC
 http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
-#EXTINF:0 tvg-id="Klan Kosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
+#EXTINF:0 tvg-id="Klan.Kosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/2561
 
 
