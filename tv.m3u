@@ -11,7 +11,7 @@ http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
 http://217.73.139.200:5443/play/a016
 #EXTINF:-1 tvg-id="KlanNews.al" tvg-name="Klan News" tvg-logo="http://iptvbeka.net/albanian/Klan News.png" group-title="Albania",Klan News
 http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
-#EXTINF:0 tvg-name="VizionPlus.al"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png" tvg-id="Vizion.+.HD.al",Vizion Plus
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vizionplus.svg/2560px-Vizionplus.svg.png" tvg-id="Vizion.+.HD.al",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 tvg-id="TOPNews.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png",Top News
 http://217.73.139.200:5443/play/a017
@@ -19,5 +19,7 @@ http://217.73.139.200:5443/play/a017
 http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
 #EXTINF:0 tvg-id="KlanKosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
 http://live-me.org:8080/72v9dlMFaf/YtZITShPKd/13104
+#EXTINF:0,Club FM
+https://cp1.sednastream.com/proxy/clubfm?mp=/stream
 
 
