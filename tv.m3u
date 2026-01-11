@@ -19,7 +19,7 @@ http://217.73.139.200:5443/play/a017
 http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
 #EXTINF:0 tvg-id="KlanKosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
 http://live-me.org:8080/72v9dlMFaf/YtZITShPKd/13104
-#EXTINF:-1,tvg-logo="http://image.noelshack.com/minis/2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
+#EXTINF:-1,tvg-logo="http://image.noelshack.com/minis/2017/02/1484272726-somafm.png" item-title="radio" radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
 
 
