@@ -19,8 +19,8 @@ http://217.73.139.200:5443/play/a017
 http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
 #EXTINF:0 tvg-id="KlanKosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
 http://live-me.org:8080/72v9dlMFaf/YtZITShPKd/13104
-Radios
-#EXTINF:0 radio="true",Club FM
-https://cp1.sednastream.com/proxy/clubfm?mp=/stream
+#EXTINF:-1,BBC - Radio 1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=339200,CODECS="mp4a.40.2"
+http://as-hls-uk-live.akamaized.net/pool_6/live/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
 
 
