@@ -21,7 +21,7 @@ http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
 http://live-me.org:8080/72v9dlMFaf/YtZITShPKd/13104
 
 # Radio
-#EXTINF:-1,group-title="new" radio="true",Groove Salad
+#EXTINF:-1 radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
 
 
