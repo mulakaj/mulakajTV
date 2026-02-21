@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml"
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv_fr.xml"
 #EXTINF:24 tvg-id="RTSH.1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://217.73.139.200:5443/play/a00f
 #EXTINF:0 tvg-id="RTK.1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
