@@ -15,6 +15,8 @@ http://178.33.34.186:15151/live/klannewsott/playlist.m3u8
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 tvg-id="TOP.News.al" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png",Top News
 http://217.73.139.200:5443/play/a017
+#EXTINF:0 tvg-id="ABC.News.ch" tvg-logo="https://docdog.top/logo/countries/albania/abcnews.png",ABC News
+http://178.33.34.186:15151/live/abcnewsott/playlist.m3u8
 #EXTINF:0 tvg-id="Klan.Kosova.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klan_Kosova_logo_2017.svg/1544px-Klan_Kosova_logo_2017.svg.png",Klan Kosova
 http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/5692
 
