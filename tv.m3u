@@ -2,7 +2,7 @@
 #EXTINF:24 tvg-id="RTSH.1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://217.73.139.200:5443/play/a00f
 #EXTINF:0 tvg-id="RTK.1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
-http://195.200.234.186:8000/play/a05s
+http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/4935
 #EXTINF:0 tvg-id="RTSH.24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RTSH_24_%282020_Logo%29.svg/2560px-RTSH_24_%282020_Logo%29.svg.png" ,RTSH 24
 http://178.33.34.186:15151/live/rtsh24/playlist.m3u8
 #EXTINF:0 tvg-id="Klan.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/2560px-TV_Klan.svg.png",Klan
