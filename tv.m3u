@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/generate/HeOiESBxdm.xml"
+#EXTM3Ux-tvg-url="https://www.open-epg.com/generate/HeOiESBxdm.xml" catchup-type="shift"
 #EXTINF:24 tvg-id="RTSH1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://217.73.139.200:5443/play/a00f
 #EXTINF:0 tvg-id="RTK1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
