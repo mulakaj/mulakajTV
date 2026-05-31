@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/fra
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info", France 5
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
 #EXTINF:-1 tvg-id="France.TV.Docs.fr" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="FRANCE.TV",France TV Docs
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/documentaire.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/docs.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="FRANCE.TV",France TV Séries
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/serie.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IeiMuGI.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE TV SPORT
