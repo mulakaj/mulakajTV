@@ -25,28 +25,24 @@ http://151.80.18.177:86/TF1_HD/index.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="France 3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-3-rhone-alpes.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",Canal+
-http://151.80.18.177:86/Canal+_HD/index.m3u8
-#EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png",Arte
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/arte.m3u8
+#EXTINF:-1  tvg-id="France4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",France 4 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-4.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info", France 5
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png",M6
 http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png",Arte
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/arte.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
-#EXTINF:-1  tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png",franceinfo:
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT",CNews
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="LCI - La Chaîne Info.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png",LCI
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/LCI.m3u8
-#EXTINF:-1  tvg-id="France4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",France 4 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-4.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info", France 5
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
-#EXTINF:-1 tvg-id="France.TV.Docs.fr" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="FRANCE.TV",France TV Docs
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+#EXTINF:-1  tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png",franceinfo:
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="FRANCE.TV",France TV Séries
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IeiMuGI.png" tvg-country="FR" group-title="FRANCE.TV",France TV Sport
