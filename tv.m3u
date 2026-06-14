@@ -35,26 +35,24 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="LCI - La Chaîne Info.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png",LCI
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/LCI.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Alerte Cobra (1080p)
-https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
-
-#EXTINF:-1 tvg-id="",Rakuten TV Films Comédie (720p)
-https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Films Drames (720p)
-https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-
-#EXTINF:-1 tvg-id="",Rakuten TV Séries Crime (720p)
-https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
-#EXTINF:-1 tvg-id="",Top Films
+#EXTINF:-1 tvg-id="FR:.Top.Films.-.Rakuten.TV.be" tvg-shift="-2",Top Films
 https://top-movies-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Films.d`Action.-.Rakuten.TV.be",Films Action
+#EXTINF:-1 tvg-id="FR:.Comédies.-.Rakuten.TV.be" tvg-shift="-2",Rakuten TV Films Comédie
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
+#EXTINF:-1 tvg-id="FR:.Drames.-.Rakuten.TV.be" tvg-shift="-2",Rakuten TV Films Drames 
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
+#EXTINF:-1 tvg-id="FR:.Films.d`Action.-.Rakuten.TV.be" tvg-shift="-2",Films Action
 https://action-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="Films Romantiques - Rakuten TV" tvg-logo="" group-title="Films" channel-number="4",Films Romantiques - Rakuten TV
+#EXTINF:-1 tvg-id="FR:.Films.Romantiques.-.Rakuten.TV.be" tvg-shift="-2" tvg-name="Films Romantiques - Rakuten TV" tvg-logo="" group-title="Films" channel-number="4",Films Romantiques - Rakuten TV
 https://romance-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Sci-Fi - Rakuten TV" tvg-logo="" group-title="Films" channel-number="6",Sci-Fi
+#EXTINF:-1 tvg-id="FR:.Sci-Fi.-.Rakuten.TV.be" tvg-shift="-2" tvg-logo="" group-title="Films" channel-number="6",Sci-Fi
 https://sci-fi-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7161/master.m3u8
-#EXTINF:-1 tvg-id="",Films Thriller
+#EXTINF:-1 tvg-id="FR:.Thrillers.-.Rakuten.TV.be" tvg-shift="-2",Films Thriller
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:-1,Films Famille
+#EXTINF:-1 tvg-id="FR:.Crime.-.Rakuten.TV.be" tvg-shift="-2",Rakuten TV Séries Crime
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+#EXTINF:-1 tvg-id="FR:.Alerte.Cobra.be" tvg-shift="-2" ,Rakuten TV Alerte Cobra
+https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
+#EXTINF:-1 tvg-id="FR:.Famille.-.Rakuten.TV.be" tvg-shift="+2",Films Famille
 https://family-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
 
