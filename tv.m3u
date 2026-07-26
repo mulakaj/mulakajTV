@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/generate/HeOiESBxdm.xml, https://xmltvfr.fr/xmltv/xmltv_tnt.xml, https://iptv-epg.org/files/epg-al.xml, https://epgshare01.online/epgshare01/epg_ripper_AL1.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/generate/HeOiESBxdm.xml, https://xmltvfr.fr/xmltv/xmltv_tnt.xml, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz"
 #EXTINF:0 tvg-id="RTSH1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1280px-RTSH_1_HD_%282020_Logo%29.svg.png",RTSH 1
 http://217.73.139.200:5443/play/a00f
 #EXTINF:0 tvg-id="RTK1.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png",RTK 1
@@ -32,7 +32,7 @@ http://176.148.194.209:9981/stream/channelid/1665704376?profile=pass
 #EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png",Arte
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/arte.m3u8
 #EXTINF:-1 tvg-id="La Chaîne parlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info",LCP
-http://176.148.194.209:9981/stream/channelid/734128771?profile=pass
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/lcp-public-senat.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT",CNews
@@ -59,6 +59,10 @@ https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
 #EXTINF:-1 tvg-id="FR:.Alerte.Cobra.be",Rakuten TV Alerte Cobra
 https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
+#EXTINF:-1 tvg-id="",Blacklist
+https://3fc24e884f424952b6596d63fd935e0f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-RAKUTEN_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="",Sony One Favoris
+https://d4f00eef0980487dae18047f0badc7dc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-RAKUTEN_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="FR:.Famille.-.Rakuten.TV.be",Films Famille
 https://family-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
 #EXTINF:-1 tvg-id="",Rakuten TV Pingu
