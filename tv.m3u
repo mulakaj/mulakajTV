@@ -23,47 +23,18 @@ https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1811
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="France 3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-3-rhone-alpes.m3u8
-#EXTINF:-1  tvg-id="France 4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",France 4 
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="France 5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info",France 5
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-5.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png",M6
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/475
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CANAL.png",Canal+
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4140
 #EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png",Arte
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/arte.m3u8
-#EXTINF:-1 tvg-id="La Chaîne parlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info",LCP
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/lcp-public-senat.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png",M6
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/475
 #EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT",CNews
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-dm.m3u8
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4737
 #EXTINF:-1 tvg-id="LCI - La Chaîne Info.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png",LCI
-http://176.148.194.209:9981/stream/channelid/693688777?profile=pass
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4342
 #EXTINF:-1  tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png",franceinfo:
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-id="FR:.Top.Films.-.Rakuten.TV.be",Top Films
-https://top-movies-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Comédies.-.Rakuten.TV.be",Rakuten TV Films Comédie
-https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Drames.-.Rakuten.TV.be",Rakuten TV Films Drames 
-https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Films.d`Action.-.Rakuten.TV.be",Films Action
-https://action-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Films.Romantiques.-.Rakuten.TV.be" tvg-name="Films Romantiques - Rakuten TV" tvg-logo="" group-title="Films" channel-number="4",Films Romantiques - Rakuten TV
-https://romance-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Sci-Fi.-.Rakuten.TV.be" tvg-logo="" group-title="Films" channel-number="6",Sci-Fi
-https://sci-fi-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7161/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Thrillers.-.Rakuten.TV.be",Films Thriller
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Crime.-.Rakuten.TV.be",Rakuten TV Séries Crime
-https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
-#EXTINF:-1 tvg-id="FR:.Alerte.Cobra.be",Rakuten TV Alerte Cobra
-https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
-#EXTINF:-1 tvg-id="",Blacklist
-https://3fc24e884f424952b6596d63fd935e0f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-RAKUTEN_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="",Sony One Favoris
-https://d4f00eef0980487dae18047f0badc7dc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-RAKUTEN_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="FR:.Famille.-.Rakuten.TV.be",Films Famille
-https://family-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Pingu
-https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7634/master.m3u8
+
