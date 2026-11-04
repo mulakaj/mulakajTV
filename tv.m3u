@@ -23,12 +23,22 @@ https://tvradiozap.eu/tools/m3u-m3u8.php/para/tf1.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="France 3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-3-rhone-alpes.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://streamboxtv.cc/logos-chaines/FRANCE/CINEMA/CANAL.png",Canal+
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-#EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png",Arte
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/arte.m3u8
+#EXTINF:-1  tvg-id="France 4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",France 4 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="France 5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info",France 5
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png",M6
 http://5.180.164.197:8080/M6/index.m3u8
+#EXTINF:-1  tvg-id="Arte.fr"  tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png",Arte
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/arte.m3u8
+#EXTINF:-1 tvg-id="La Chaîne parlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info",LCP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/lcp-public-senat.m3u8
+#EXTINF:-1  tvg-id="W9.fr",W9
+http://5.180.164.197:8080/W9/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/La_cha%C3%AEne_l%27Equipe_-_logo_2016.png/330px-La_cha%C3%AEne_l%27Equipe_-_logo_2016.png" tvg-id="LEquipe21.fr" group-title="Sport",L'Équipe
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gulli_logo_2023.png/330px-Gulli_logo_2023.png" tvg-id="Gulli.fr" group-title="Jeunesse",Gulli
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT",CNews
